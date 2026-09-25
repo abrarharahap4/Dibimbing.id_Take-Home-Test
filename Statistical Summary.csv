@@ -1,0 +1,5 @@
+Variabel,H-statistic,epsilon_squared,% variance explained,Interpretasi
+Weather,37.05,0.0332,3.3,Kecil
+Traffic_Level,37.07,0.0352,3.5,Kecil
+Vehicle_Type,0.99,-0.001,-0.1,Sangat kecil
+Time_of_Day,0.94,-0.0021,-0.2,Sangat kecil
